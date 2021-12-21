@@ -17,7 +17,7 @@
 </br>
 
 <div>
-  <span style="font-size: 20px; font-weight: bold;">Get in touch! &nbsp;&nbsp;&nbsp;</span>
+  <span style="font-size: 20px; font-weight: bold;">Get in touch! &nbsp;</span>
   <a href="https://www.linkedin.com/in/adrian-aguirre-sanchez/"> 
     <img alt="Adri's LinkedIn" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
