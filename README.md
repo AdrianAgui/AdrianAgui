@@ -16,9 +16,9 @@
 </br>
 
 <div>
-  <span>Get in touch!</span>
+  <h3>Get in touch!</h3>
   <a href="https://www.linkedin.com/in/adrian-aguirre-sanchez/"> 
-    <img align="left" alt="Adri's LinkedIn" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img alt="Adri's LinkedIn" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
 </div>
 
