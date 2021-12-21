@@ -15,9 +15,12 @@
 
 </br>
 
-### Get in touch!
+<div>
+  <span>Get in touch!</span>
+  <a href="https://www.linkedin.com/in/adrian-aguirre-sanchez/"> 
+    <img align="left" alt="Adri's LinkedIn" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
+</div>
 
-<a href="https://www.linkedin.com/in/adrian-aguirre-sanchez/"> 
-  <img align="left" alt="Adri's LinkedIn" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 </br>
