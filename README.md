@@ -2,7 +2,7 @@
 
 ### A frontend developer based in Barcelona.
 
-#### 🧡  &nbsp; My techs
+#### 👨‍💻  &nbsp; My techs
 
 <a name="learning-now"></a>
 <span>
@@ -17,7 +17,7 @@
 
 ### Get in touch!
 
-<a href="https://www.linkedin.com/in/adrian.aguirre/"> 
+<a href="https://www.linkedin.com/in/adrian-aguirre-sanchez/"> 
   <img align="left" alt="Adri's LinkedIn" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 </br>
