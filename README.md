@@ -1,6 +1,6 @@
 ## Hey!, I'm Adri,
 
-### A frontend developer based in Barcelona.
+### A frontend developer based in Madrid.
 
 #### 👨‍💻 &nbsp; My techs
 
